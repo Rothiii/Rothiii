@@ -13,9 +13,9 @@ Right now, I'm learning and exploring things in the field of programming and tec
 ## Projects
 
 Here are some of my recent projects:
-- ### *SOON~*
+- [Projects]([https://github.com/username/project1](https://github.com/Rothiii?tab=repositories)) - .
 <!--
-- [Project 1](https://github.com/username/project1) - A brief description of the project.
+- ### *SOON~*
 - [Project 2](https://github.com/username/project2) - A brief description of the project.
 - [Project 3](https://github.com/username/project3) - A brief description of the project.
 -->
