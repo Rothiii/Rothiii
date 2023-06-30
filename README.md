@@ -13,7 +13,7 @@ Right now, I'm learning and exploring things in the field of programming and tec
 ## Projects
 
 Here are some of my recent projects:
-- [Projects](https://github.com/username/project1](https://github.com/Rothiii?tab=repositories)) - .
+- [Projects](https://github.com/Rothiii?tab=repositories) - .
 <!--
 - ### *SOON~*
 - [Project 2](https://github.com/username/project2) - A brief description of the project.
