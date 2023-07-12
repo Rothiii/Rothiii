@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Rothiii&color=brightgreen&)
 # Hi there 👋
 
 I'm a student at the Kalimantan Institute of Technology, majoring in Informatics. I'm interested in learning and improving my skills in the backend development area. </br>
