@@ -2,7 +2,8 @@
 
 🧠 A Computer Science fresh graduate from Institut Teknologi Kalimantan <br/>
 🚀 Passionate about software design principles and interested in deepening his skills in backend architecture, DevOps, and contributing to open-source projects. <br/>
-☁️ Skilled in cloud computing, with experience designing and deploying high-availability VM instances on Google Cloud for scalable backend systems. <br/>
+☁️ Skilled in cloud computing, with experience designing and deploying high-availability VM instances on Google Cloud for scalable backend systems. <br/><br/>
+You can know me more at [my website](https://rafidportofolio.rothi.site) here.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafidal._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafid-al-khairy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drome.emord@gmail.com) 
