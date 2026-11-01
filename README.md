@@ -1,11 +1,11 @@
 # Hi, I'm Rafid 👋
 
-Full Stack Developer at PT. Planet IT, based in Balikpapan, Indonesia. CS graduate from Institut Teknologi Kalimantan.
+Backend-leaning full stack developer based in Balikpapan, Indonesia. CS graduate from Institut Teknologi Kalimantan. Currently open to new opportunities.
 
 I work mostly on backend systems: API design, authentication, databases, and deployment. On the side, I explore DevOps, self-hosting, and whatever new tool catches my attention.
 
 **Currently:**
-- Building production services with TypeScript, Node.js, and PostgreSQL
+- Building production-grade services with TypeScript, Node.js, and PostgreSQL
 - Learning Go and Kubernetes
 - Setting up CI/CD pipelines with GitHub Actions and Docker
 
