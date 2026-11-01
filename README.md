@@ -1,8 +1,8 @@
-# halu, aku Rafid 👋
+# hai, aku Rafid 👋
 
 > full-stack dev dari Balikpapan 🇮🇩 · ngopi, ngoding, deploy, ulangi
 
-let me guess: kamu nyasar ke sini dari suatu repo, liat commit jam 2 pagi, dan mikir "siapa sih ini?" · ya, ini dia.
+let me guess: kamu nyasar ke sini dari suatu repo, liat commit jam 2 pagi, dan mikir "siapa sih ini?" ya, ini dia.
 
 ## 🧭 tentang aku
 
